@@ -208,3 +208,7 @@ ro.telephony.ril.config=writeaidonly,signalstrength
 # Vold switchability uncomment second line to swap
 ro.vold.switchablepair=/storage/sdcard0,/storage/sdcard1
 #persist.sys.vold.switchexternal=1
+
+###########
+#Oggie7797#
+###########
